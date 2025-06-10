@@ -1,11 +1,6 @@
-# AkhilBandaru
+# Akhil Bandaru
 QA Automation Analyst with 3+ years of experience in manual and automation testing,functional, integration, API, database, and mobile testing. Proficient in Agile methodologies with hands-on expertise in Selenium with Java (BDD Cucumber framework), API tools like Postman, ReadyAPI and Swagger API, and Azure DevOps for test management. 
 
-Here’s your **GitHub README-friendly formatted version** of your **Professional Experience**, using proper Markdown syntax:
-
----
-
-```markdown
 # 💼 Professional Experience
 
 ## 🧪 QA Engineer  
